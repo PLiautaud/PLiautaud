@@ -2,9 +2,7 @@
 
 - 👋 Hi, I’m @PLiautaud
 - 👀 I’m interested in Statistical/Machine Learning
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : paul.liautaud@etu.sorbonne-universite.fr
 
 <!---
 PLiautaud/PLiautaud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
